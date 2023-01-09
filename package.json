@@ -35,7 +35,7 @@
     "@themost/ejs": "^2.0.1",
     "@themost/express": "^1.5.24",
     "@themost/node": "^2.5.0",
-    "@themost/query": "^2.5.21",
+    "@themost/query": "^2.9.1",
     "@themost/sqlite": "^2.6.9",
     "@themost/web": "^2.5.16",
     "@themost/xml": "^2.5.2",
