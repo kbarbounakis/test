@@ -54,7 +54,7 @@
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
     "rimraf": "^2.7.1",
-    "temp": "^0.9.1",
+    "temp": "^0.9.4",
     "typescript": "^3.9.10"
   }
 }
