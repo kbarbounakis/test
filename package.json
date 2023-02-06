@@ -38,7 +38,7 @@
     "@types/jasmine": "^3.10.0",
     "@types/lodash": "^4.14.175",
     "@types/node-fetch": "^2.6.2",
-    "@types/passport": "^1.0.7",
+    "@types/passport": "^1.0.11",
     "babel-eslint": "^10.1.0",
     "commander": "^10.0.0",
     "cors": "^2.8.5",
