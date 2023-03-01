@@ -34,7 +34,7 @@
     "@themost/web": "^2.5.16",
     "@themost/xml": "^2.5.2",
     "@types/commander": "^2.12.2",
-    "@types/express": "^4.17.13",
+    "@types/express": "^4.17.17",
     "@types/jasmine": "^3.10.0",
     "@types/lodash": "^4.14.175",
     "@types/node-fetch": "^2.6.2",
